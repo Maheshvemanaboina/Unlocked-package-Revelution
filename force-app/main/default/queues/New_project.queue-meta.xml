@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>false</doesSendEmailToMembers>
+    <name>New project</name>
+    <queueMembers>
+        <users>
+            <user>akshitha7679@gmail.com</user>
+            <user>janu@gmail.com</user>
+            <user>kowshik667@gmail.com</user>
+            <user>manikyam765@gmail.com</user>
+        </users>
+    </queueMembers>
+    <queueSobject>
+        <sobjectType>Hiring_Manager__c</sobjectType>
+    </queueSobject>
+</Queue>
